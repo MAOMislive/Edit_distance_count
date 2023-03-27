@@ -2,9 +2,9 @@ Given two strings string1 and string2 and we have to perform operations on strin
 
 we can do these three Operation:
 
-Insert a character at any position of the string.
-Remove any character from the string.
-Replace any character from the string with any other character.
+1. Insert a character at any position of the string.  
+2. Remove any character from the string.  
+3. Replace any character from the string with any other character.  
 Now, modify your offline code to consider the following costs for each operation:
 
 Insert : 1
