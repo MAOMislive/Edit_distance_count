@@ -1,6 +1,6 @@
 Given two strings string1 and string2 and we have to perform operations on string1. Find minimum number of edits (operations) required to convert ‘string1 ’ into ‘string2’.  
 
-we can do these three Operation:
+We can do these three operation:
 
 1. Insert a character at any position of the string.  
 2. Remove any character from the string.  
