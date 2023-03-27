@@ -6,10 +6,10 @@ we can do these three Operation:
 2. Remove any character from the string.  
 3. Replace any character from the string with any other character.  
 Now, modify your offline code to consider the following costs for each operation:
+  
+* Insert : 1  
+* Remove: 1  
+* Replace: 2  
 
-Insert : 1
-Remove: 1
-Replace: 2
-
-
+  
 Finally, print the total cost to convert String1 to String2. 
