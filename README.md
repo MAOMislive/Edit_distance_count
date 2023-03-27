@@ -5,7 +5,7 @@ We can do these three operation:
 1. Insert a character at any position of the string.  
 2. Remove any character from the string.  
 3. Replace any character from the string with any other character.  
-4.   
+  
 Now, modify your offline code to consider the following costs for each operation:
   
 * Insert : 1  
