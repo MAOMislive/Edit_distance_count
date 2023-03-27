@@ -45,10 +45,14 @@ public class ED_test {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter string1: ");
+        
         String s1 = scanner.nextLine();
         System.out.print("Enter string2: ");
+        
         String s2 = scanner.nextLine();
+        
         scanner.close();
+        
         ED(s1, s2);
     }
 }
